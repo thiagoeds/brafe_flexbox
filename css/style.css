@@ -301,3 +301,7 @@ h2.produtos-mineiro::before {
 	margin: 0 10px;
 	flex: 1;
 }
+
+@media (max-width: 790px) {
+	
+}
